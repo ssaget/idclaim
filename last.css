@@ -1,0 +1,9 @@
+
+@media(max-width:400px){
+    .first-logo{
+        width: 100% !important;
+    display: block !important;
+    z-index: 100000;
+
+}
+}
